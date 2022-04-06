@@ -2,10 +2,10 @@
 
 * [AWS General Immersion Day](README.md)
 * [0.preparation-guide](0.preparation-guide/README.md)
+  * [워크샵 시작 전 준비 사항](0.preparation-guide/preparation-guide.md)
   * [AWS 계정으로 시작](0.preparation-guide/10-aws-account.md)
   * [AWS EventEngine으로 시작](0.preparation-guide/20-event-engine.md)
   * [추가 설정하기](0.preparation-guide/30-addition-setting.md)
-  * [워크샵 시작 전 준비 사항](0.preparation-guide/preparation-guide.md)
 * [1.basic-modules](1.basic-modules/README.md)
   * [기초 모듈](1.basic-modules/basic-modules/README.md)
     * [컴퓨트 - Amazon EC2](1.basic-modules/basic-modules/10-ec2/README.md)
