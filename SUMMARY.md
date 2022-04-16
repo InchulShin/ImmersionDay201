@@ -5,6 +5,7 @@
     - [AWS 계정으로 시작](./0.preparation-guide/10-aws-account.md)
     - [AWS EventEngine으로 시작](./0.preparation-guide/20-event-engine.md)
     - [추가 설정하기](./0.preparation-guide/30-addition-setting.md)
+<!--
 - [기초 모듈](./1.basic-modules/basic-modules.md)
     - [1.컴퓨트 - Amazon EC2](./1.basic-modules/10-ec2.md)
         - [EC2 Linux 실습](./1.basic-modules/10-ec2/ec2-linux.md)
