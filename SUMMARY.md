@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AWS General Immersion Day](README.md)
+* [WorkShop - Learning Cloud Platform (AWS)](README.md)
 * [워크샵 시작 전 준비 사항](0.preparation-guide/preparation-guide.md)
   * [AWS 계정으로 시작](0.preparation-guide/10-aws-account.md)
   * [AWS EventEngine으로 시작](0.preparation-guide/20-event-engine.md)
