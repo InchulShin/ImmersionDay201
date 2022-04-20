@@ -1,12 +1,10 @@
-# AWS General Immersion Day
+# WorkShop - Learning Cloud Platform (AWS)
 
 <!--
-## AWS General Immersion Day
+<p align="center"><img src="./immersion_days_logo.png"></p>
 -->
 
-<p align="center"><img src="./immersion_days_logo.png"></p>
-
-General Immersion Day 워크샵에서는 AWS가 주도하는 서비스 설명과 실습 랩을 혼합하여 AWS 기본 서비스와 AWS 보안 조치 및 아키텍처 모범 사례를 위한 주요 개념에 대해 알아봅니다.
+Learning Cloud Platform 워크샵에서는 AWS가 주도하는 서비스 설명과 실습 랩을 혼합하여 AWS 기본 서비스와 AWS 보안 조치 및 아키텍처 모범 사례를 위한 주요 개념에 대해 알아봅니다.
 
 실습은 크게 기초와 심화 모듈로 나누어져 있습니다.
 
