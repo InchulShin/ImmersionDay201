@@ -31,7 +31,7 @@
         * [실습 자원 삭제하기](1.basic-modules/10-ec2/ec2-auto-scaling/6-ec2-as.md)
   * [2.네트워크 - Amazon VPC](1.basic-modules/20-vpc.md)
     * [VPC 실습](1.basic-modules/20-vpc/vpc.md)
-      * [VPC 생성하기](1.basic-modules/20-vpc/vpc/1.vpc.md)
+      * [VPC 생성하기](1.basic-modules/20-vpc/vpc/1-vpc.md)
       * [추가 서브넷 생성하기](1.basic-modules/20-vpc/vpc/2-vpc.md)
       * [라우팅 테이블 편집하기](1.basic-modules/20-vpc/vpc/3-vpc.md)
       * [보안 그룹 생성하기](1.basic-modules/20-vpc/vpc/4-vpc.md)
