@@ -17,7 +17,6 @@ AWS Immersion Day 워크샵에서는 AWS가 주도하는 서비스 설명과 실
     - [AWS 계정으로 시작](./0.preparation-guide/10-aws-account.md)
     - [AWS EventEngine으로 시작](./0.preparation-guide/20-event-engine.md)
     - [추가 설정하기](./0.preparation-guide/30-addition-setting.md)
-
 </div>
 </details>
 
