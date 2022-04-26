@@ -3,7 +3,7 @@
 ## AWS IAM Identities 생성하기
 이번 실습에서는 AWS IAM Identities 생성 작업을 수행할 것입니다. AWS IAM Identity는 IAM 사용자, IAM 사용자 그룹, 그리고 IAM 역할을 포함합니다. 또한, identity나 리소스에 권한을 부여하기 위한 객체인 IAM Policy를 생성할 것입니다.
 
-![](../images/AWS-IAM-architecture.png)
+![](../../images/AWS-IAM-architecture.png)
 
 이번 실습은 아래의 단계로 구성되어 있습니다.
 
@@ -15,7 +15,7 @@
 
 1. IAM 콘솔 에 로그인 합니다. 콘솔에 로그인할 때 접속할 Sign-in URL의 **어카운트 별칭(Account Alias)** 을 생성하기 위해 IAM 메인 페이지의 우측에서 Create 버튼을 클릭합니다.
 
-![](../images/iam-2-alias.png)
+![](../../images/iam-2-alias.png)
 
 2. 계정 별칭을 입력합니다. 본 실습에서는 aws-login-사용자 이름 을 입력하고 create alias 버튼을 클릭합니다.
 
