@@ -37,7 +37,7 @@
       * [라우팅 테이블 편집하기](1.basic-modules/20-vpc/vpc/3-vpc.md)
       * [보안 그룹 생성하기](1.basic-modules/20-vpc/vpc/4-vpc.md)
       * [실습 자원 삭제](1.basic-modules/20-vpc/vpc/6-vpc.md)
-    * [Amazon API Gateway](1.basic-modules/20-vpc/api-gateway.md)
+<!--    * [Amazon API Gateway](1.basic-modules/20-vpc/api-gateway.md)
       * [전제 조건 및 Lambda 배포](1.basic-modules/20-vpc/api-gateway/1-apigateway.md)
       * [첫 번째 API 만들기](1.basic-modules/20-vpc/api-gateway/2-apigateway.md)
       * [메시지 변환](1.basic-modules/20-vpc/api-gateway/3-apigateway.md)
@@ -46,7 +46,7 @@
       * [API 배포](1.basic-modules/20-vpc/api-gateway/6-apigateway.md)
       * [메시지 캐싱(선택 사항)](1.basic-modules/20-vpc/api-gateway/7-apigateway.md)
       * [사용 계획 및 메시지 조절(선택 사항)](1.basic-modules/20-vpc/api-gateway/8-apigateway.md)
-      * [리소스 정리](1.basic-modules/20-vpc/api-gateway/9-apigateway.md)
+      * [리소스 정리](1.basic-modules/20-vpc/api-gateway/9-apigateway.md)-->
   * [3.보안 - AWS IAM](1.basic-modules/30-iam.md)
     * [IAM 실습](1.basic-modules/30-iam/iam.md)
       * [태그를 명시한 EC2 인스턴스 생성](1.basic-modules/30-iam/iam/1-iam.md)
