@@ -66,6 +66,7 @@
         * [오토 스케일링 그룹 테스트하기](1.basic-modules/10-ec2/ec2-auto-scaling/5-ec2-as.md)
         * [실습 자원 삭제하기](1.basic-modules/10-ec2/ec2-auto-scaling/6-ec2-as.md)
       * [실습 자원 삭제하기](1.basic-modules/40-monitoring/monitoring/4-monitoring.md)
+
 * [심화 모듈 - 웹 애플리케이션](2.advanced-modules/advanced-modules.md)
   * [1.컴퓨트 – Amazon EC2](2.advanced-modules/compute.md)
     * [웹 서버 인스턴스의 시작](2.advanced-modules/compute/10-launching.md)
@@ -75,7 +76,7 @@
   * [2.스토리지 – Amazon S3](2.advanced-modules/storage.md)
     * [S3에 Bucket 생성](2.advanced-modules/storage/create-bucket.md)
     * [버킷에 오브젝트 추가하기](2.advanced-modules/storage/put-object.md)
-    * [오브젝트 보기](2.advanced-modules/storage/put-object.md)
+    * [오브젝트 보기](2.advanced-modules/storage/view-object.md)
     * [정적 웹 사이트 호스팅 사용](2.advanced-modules/storage/static-web-hosting.md)
     * [오브젝트 이동](2.advanced-modules/storage/move-object.md)
     * [버킷 버저닝 활성화](2.advanced-modules/storage/enable-versioning.md)
